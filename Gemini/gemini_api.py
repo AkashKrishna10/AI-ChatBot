@@ -1,0 +1,1 @@
+var1='AIzaSyADkZx9nAbJ1plCB40kKAvWN20lKOdZaxE'
